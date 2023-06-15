@@ -1,0 +1,30 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "engines": {
+    "npm": "9.5.1",
+    "node": "v18.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaOd/goit-node-hw-01.git"
+  },
+  "author": "Yulia <odnoiki.yulia.91@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaOd/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/YuliaOd/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
