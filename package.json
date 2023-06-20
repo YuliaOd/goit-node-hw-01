@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/YuliaOd/goit-node-hw-01.git"
   },
+  "keywords": [],
   "author": "Yulia <odnoiki.yulia.91@gmail.com>",
   "license": "ISC",
   "bugs": {
@@ -29,6 +30,5 @@
     "cors": "^2.8.5",
     "nanoid": "^3.3.6",
     "yargs": "^17.7.2"
-  },
-  "keywords": []
+  }
 }
